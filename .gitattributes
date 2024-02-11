@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.sql linguist-detectable=true
+*.R linguist-detectable=true
+*.pbix linguist-detectable=true
+*.pbix linguist-language=PowerBI
+jquery.js -linguist-vendored
