@@ -6,9 +6,5 @@
 
 ## Tools:
 
-* Google BigQuery(Data Warehouse)
-* mysql
-
-## Language:
-
-* SQL
+* Datewarehouse -Google BigQuery
+* Query Language - SQL
