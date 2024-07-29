@@ -1,4 +1,0 @@
-SELECT
-  *
-FROM
-  retail_dataset.INFORMATION_SCHEMA.TABLES;
